@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Machine Learning, and Deep Learning projects.<br><br>👯 I’m looking to collaborate on AI/ML, Computer Vision, and Open Source projects.<br><br>🤝 I’m looking for help with building production-ready AI applications and improving my MLOps skills.<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, and Generative AI.<br><br>💬 Ask me about Python, Object-Oriented Programming (OOP), SQL, and the fundamentals of Machine Learning.<br><br>⚡ Fun fact: I enjoy turning ideas into intelligent applications and believe every project is an opportunity to learn something new.
+🔭 I’m currently working on Python, Machine Learning, and Deep Learning projects.<br><br>👯 I’m looking to collaborate on AI/ML, Computer Vision, and Open Source projects.<br><br>🤝 I’m looking for help with building production-ready AI applications and improving my MLOps skills.<br><br>🌱 I’m currently learning Artificial Learning with a focus on Machine Learning and Deep Learning.<br><br>💬 Ask me about Python, Object-Oriented Programming (OOP), SQL, and the fundamentals of Machine Learning.<br><br>⚡ Fun fact: I enjoy turning ideas into intelligent applications and believe every project is an opportunity to learn something new.
 
 
 ## 🌐 Socials:
